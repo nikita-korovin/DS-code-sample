@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.0",
+    "laravel-elixir": "^6.0.0-9",
+    "laravel-elixir-vue": "^0.1.4",
+    "laravel-elixir-webpack-official": "^1.0.2",
+    "lodash": "^4.14.0",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3"
+  },
+  "name": "docswift",
+  "description": "[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)\r [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)\r [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)\r [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)\r [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "ioredis": "^2.5.0",
+    "jquery": "^3.1.1",
+    "laravel-elixir": "^6.0.0-15",
+    "laravel-elixir-vue": "^0.1.8",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "lodash": "^4.17.4",
+    "socket.io": "^1.7.2",
+    "socket.io-client": "^1.7.2",
+    "vue": "^1.0.28",
+    "vue-resource": "^0.9.3",
+    "dotenv": "~4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
